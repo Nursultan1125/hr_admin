@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 Django = "3.1.2"
 small-small-hr = "^0.4.2"
+django-payslip = "^0.3.2"
 
 [tool.poetry.dev-dependencies]
 

@@ -10,3 +10,24 @@ class EmployeeRole(hr_models.Role):
 
 class EStaffProfile(hr_models.StaffProfile):
     ...
+
+
+class EStaffDocument(hr_models.StaffDocument):
+    ...
+
+
+class ELeave(hr_models.Leave):
+    ...
+
+
+class EOverTime(hr_models.OverTime):
+    ...
+
+
+class EAnnualLeave(hr_models.AnnualLeave):
+    ...
+
+
+class EFreeDay(hr_models.FreeDay):
+    ...
+
