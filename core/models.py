@@ -24,7 +24,7 @@ class EOverTime(hr_models.OverTime):
     ...
 
 
-class EAnnualLeave(hr_models.AnnualLeave):
+class AnnualLeave(hr_models.AnnualLeave):
     ...
 
 
