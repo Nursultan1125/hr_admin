@@ -9,6 +9,8 @@ python = "^3.8"
 Django = "3.1.2"
 small-small-hr = "^0.4.2"
 six = "^1.16.0"
+django-jet-reboot = "^1.2.0"
+jet = "^1.0"
 
 [tool.poetry.dev-dependencies]
 
